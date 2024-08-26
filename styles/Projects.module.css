@@ -1,0 +1,15 @@
+.main {
+    padding: 2rem;
+  }
+  
+  .projectList {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  .project {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    text-align: center;
+  }
+  
